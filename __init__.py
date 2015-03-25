@@ -1,4 +1,2 @@
-import numpy
-
-x = numpy.pi
-print x*2
+import orderBreakfast
+import orderEggs
